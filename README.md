@@ -3,34 +3,34 @@ Templates for stock Ableton devices that work with the Melbourne Instruments Rot
 
 Included in v0.01
 -------
-Align Delay
-Amp
-Auto Filter
-Auto Pan
-Beat Repeat
-Cabinet
-Chorus-Ensemble
-Color Limiter
-Compressor
-Drum Buss
-Dynamic Tube
-EQ Three
-Erosion
-Gate
-Gated Delay
-Glue Compressor
-Grain Delay
-Limiter
-Multiband Compressor
-Overdrive
-Pedal
-Phaser-Flanger
-Pitch Hack
-Redux
-Reverb
-Saturator
-Spectral Blur
-Utility
+*Align Delay
+*Amp
+*Auto Filter
+*Auto Pan
+*Beat Repeat
+*Cabinet
+*Chorus-Ensemble
+*Color Limiter
+*Compressor
+*Drum Buss
+*Dynamic Tube
+*EQ Three
+*Erosion
+*Gate
+*Gated Delay
+*Glue Compressor
+*Grain Delay
+*Limiter
+*Multiband Compressor
+*Overdrive
+*Pedal
+*Phaser-Flanger
+*Pitch Hack
+*Redux
+*Reverb
+*Saturator
+*Spectral Blur
+*Utility
 
 Notes
 ----------
